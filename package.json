@@ -1,0 +1,23 @@
+{
+  "name": "easy-tpl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovedaan/easy-tpl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lovedaan/easy-tpl/issues"
+  },
+  "homepage": "https://github.com/lovedaan/easy-tpl#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
